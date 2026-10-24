@@ -1,3 +1,5 @@
-# Jestions
+<h1 align="center">Jestions</h1>
 
-<img src="preview.gif" width="240" alt="JiuHu">
+<p align="center">
+  <img src="preview.gif" width="240" alt="JiuHu">
+</p>
