@@ -1,3 +1,3 @@
 # Jestions
 
-![JiuHu](preview.gif)
+<img src="preview.gif" width="240" alt="JiuHu">
